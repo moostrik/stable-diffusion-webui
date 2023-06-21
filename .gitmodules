@@ -1,0 +1,9 @@
+[submodule "sd-dynamic-prompts.git"]
+	path = sd-dynamic-prompts
+	url = git@github.com:adieyal/sd-dynamic-prompts.git
+[submodule "sd-webui-controlnet.git"]
+	path = sd-webui-controlnet
+	url = git@github.com:Mikubill/sd-webui-controlnet.git
+[submodule "sd-ndi-out.git"]
+	path = sd-ndi-out
+	url = git@github.com:moostrik/sd-ndi-out.git
