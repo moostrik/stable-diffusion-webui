@@ -1,9 +1,0 @@
-[submodule "extensions\\sd-steps2ndi.git"]
-	path = extensions/sd-steps2ndi
-	url = git@github.com:moostrik/sd-steps2ndi.git
-[submodule "extensions\\sd-webui-controlnet.git"]
-	path = extensions/sd-webui-controlnet
-	url = git@github.com:Mikubill/sd-webui-controlnet.git
-[submodule "extensions\\sd-dynamic-prompts.git"]
-	path = extensions/sd-dynamic-prompts
-	url = git@github.com:adieyal/sd-dynamic-prompts.git
